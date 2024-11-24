@@ -139,13 +139,11 @@ kubectl apply -f kubernetes/deployment.yml
 - Real-Time Monitoring: Integrates a comprehensive monitoring system using Prometheus and Grafana to ensure the app's health.
 - Security-Focused: Static code analysis via SonarQube and vulnerability scans via Trivy ensure high code quality and security.
 
-## Demonstration
-Check out the [full blog post](https://medium.com/@ougabriel/cicd-project-production-level-blog-app-deployment-using-eks-nexus-sonarqube-trivy-with-40eb648a688a) about the CI/CD project!
+
 
 
 ---
 
-## Contact
-If you have any questions or suggestions, feel free to contact me at [ougabriel@gmail.com](mailto:ougabriel@gmail.com).
+
 
 ```
